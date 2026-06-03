@@ -5,8 +5,9 @@
  * https://github.com/metowolf/Meting
  * Version 1.5.10.
  *
- * Copyright 2019, METO Sheel <i@i-meto.com>
- * Released under the MIT license
+ * Original code copyright 2019, METO Sheel <i@i-meto.com>
+ * Originally released under the MIT license.
+ * This fork is distributed under GPL-3.0-only; see LICENSE and NOTICE.
  */
 
 namespace Metowolf;

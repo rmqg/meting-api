@@ -1,4 +1,5 @@
 {
+  "license": "GPL-3.0-only",
   "require": {
     "metowolf/meting": "^1.5"
   }

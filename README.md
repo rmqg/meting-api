@@ -81,6 +81,6 @@ PHP 5.4+ and BCMath, Curl, OpenSSL extension installed.
 
 ## License
 
-[MIT](https://github.com/injahow/meting-api/blob/master/LICENSE) license.
+GNU General Public License v3.0.
 
-Copyright (c) 2019 injahow
+This fork preserves MIT-licensed upstream notices in [NOTICE](NOTICE).
